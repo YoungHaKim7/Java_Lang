@@ -29,3 +29,24 @@ EbookFoundation
 https://ebookfoundation.github.io/free-programming-books/
 
 
+# Java Windows Settings
+
+- Java 개발자 기본 세팅
+
+https://skypacific.github.io/2019/01/24/kang.heehun@dev-env-setting.html
+
+
+```
+choco install javaruntime
+```
+
+
+
+# Java Vim Setting (WindowsOS)
+
+```
+:LspInstall
+
+Installed eclipse-jdt-ls
+```
+
