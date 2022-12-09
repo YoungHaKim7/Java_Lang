@@ -1,3 +1,9 @@
+#  Java for Beginners
+
+https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM
+
+<br>
+
 # Jave_Lang
 
 - Learning Java Language - Compiled from StackOverflow Documentation (PDF)
