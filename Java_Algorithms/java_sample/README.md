@@ -1,39 +1,16 @@
-# javac & java 자동으로 ㅋ
+# Java Algorithms 
 
-build.sh
-```
-$ ./build.sh
-
-Java ! Hello World
-
-```
+https://youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT
 
 <br>
 
-- build.sh 
-```
-#!/bin/bash
+<hr>
 
-javac -cp src src/Main.java -d dist
-java -cp dist Main
-
-```
+# Result:
 
 <br>
 
-- tree 구성
-
 ```
-tree
-.
-├── README.md
-├── build.sh
-├── dist
-│   └── Main.class
-└── src
-    └── Main.java
-
-2 directories, 4 files
 
 ```
 
