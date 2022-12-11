@@ -1,4 +1,12 @@
-#  Java for Beginners
+# Java tutorials(ORACLE)
+
+https://docs.oracle.com/javase/tutorial/index.html
+
+<br>
+
+<hr>
+
+# Java for Beginners
 
 https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM
 
