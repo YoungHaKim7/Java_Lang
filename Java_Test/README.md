@@ -19,3 +19,12 @@ https://junit.org/junit5/docs/current/user-guide/
 <br>
 
 <hr>
+
+
+# VSCode Java Test
+
+<br>
+
+https://github.com/microsoft/vscode-java-test
+
+<br>
