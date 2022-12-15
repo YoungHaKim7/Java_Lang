@@ -20,6 +20,12 @@ https://junit.org/junit5/
 
 <br>
 
+# Stackoverflow 나온글
+
+https://stackoverflow.com/questions/2235276/how-to-run-junit-test-cases-from-the-command-line
+
+<br>
+
 # JUnit5 공식 문서
 
 https://junit.org/junit5/docs/current/user-guide/
