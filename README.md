@@ -4,6 +4,16 @@ https://youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
 
 <br>
 
+# Java Tutorials Series | freeCodeCamp.org
+
+https://youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
+
+<br>
+
+<hr>
+
+<br>
+
 # Java tutorials(ORACLE)
 
 https://docs.oracle.com/javase/tutorial/index.html
