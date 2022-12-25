@@ -1,6 +1,6 @@
-# Java Tutorials | freeCodeCamp.org
+# Java Programming - Course for Absolute Beginners | freeCodeCamp.org
 
-https://youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
+https://youtu.be/GoXwIVyNvX0
 
 <br>
 
