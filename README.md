@@ -15,6 +15,10 @@ https://youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
 
 <br>
 
+# 한글설명[Java] 자료구조01 : 입출력, 변수, 배열, 반복문 
+
+https://ccomrung-programming.tistory.com/m/39
+
 <hr>
 
 <br>
