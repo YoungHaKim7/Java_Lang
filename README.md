@@ -19,6 +19,10 @@ https://youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
 
 https://ccomrung-programming.tistory.com/m/39
 
+# 자바의 정석(2020년ver)
+
+https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp
+
 <hr>
 
 <br>
