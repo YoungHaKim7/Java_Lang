@@ -88,3 +88,44 @@ choco install javaruntime
 
 Installed eclipse-jdt-ls
 ```
+
+# eclipse & tomcat
+
+
+```
+PS C:\Users\user> choco install tomcat
+Chocolatey v1.2.1
+Installing the following packages:
+tomcat
+By installing, you accept licenses for the packages.
+Progress: Downloading Tomcat 9.0.74... 100%
+
+Tomcat v9.0.74 [Approved]
+tomcat package files install completed. Performing other installation steps.
+The package Tomcat wants to run 'chocolateyInstall.ps1'.
+Note: If you don't run this script, the installation will fail.
+Note: To confirm automatically next time, use '-y' or consider:
+choco feature enable -n allowGlobalConfirmation
+Do you want to run the script?([Y]es/[A]ll - yes to all/[N]o/[P]rint): a
+
+Extracting 64-bit C:\ProgramData\chocolatey\lib\Tomcat\tools\apache-tomcat-9.0.74-windows-x64.zip to C:\ProgramData\chocolatey\lib\Tomcat\tools...
+C:\ProgramData\chocolatey\lib\Tomcat\tools
+C:\ProgramData\Tomcat9
+Installing the service 'Tomcat9' ...
+Using CATALINA_HOME:    "C:\ProgramData\chocolatey\lib\Tomcat\tools\apache-tomcat-9.0.74"
+Using CATALINA_BASE:    "C:\ProgramData\Tomcat9"
+Using JAVA_HOME:        "C:\Program Files\OpenJDK\jdk-19.0.2"
+Using JRE_HOME:         "C:\Program Files\OpenJDK\jdk-19.0.2"
+Using JVM:              "C:\Program Files\OpenJDK\jdk-19.0.2\bin\server\jvm.dll"
+The service 'Tomcat9' has been installed.
+Environment Vars (like PATH) have changed. Close/reopen your shell to
+ see the changes (or in powershell/cmd.exe just type `refreshenv`).
+ ShimGen has successfully created a shim for tomcat9.exe
+ ShimGen has successfully created a shim for tomcat9w.exe
+ The install of tomcat was successful.
+  Software installed to 'C:\ProgramData\chocolatey\lib\Tomcat\tools'
+
+Chocolatey installed 1/1 packages.
+ See the log for details (C:\ProgramData\chocolatey\logs\chocolatey.log).
+
+```
