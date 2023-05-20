@@ -1,3 +1,10 @@
+# The application “Eclipse” can’t be opened. (macOS Monterey)
+
+```
+sudo codesign --force --deep --sign - /Applications/Eclipse.app
+```
+https://stackoverflow.com/questions/70725347/the-application-eclipse-can-t-be-opened-macos-monterey
+
 # Java Full Course for free ☕(12시간짜리)
 
 https://youtu.be/xk4_1vDrzzo
