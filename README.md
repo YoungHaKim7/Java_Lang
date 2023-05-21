@@ -38,6 +38,22 @@ On Mac : ⌘ + ⇧ + F
 ```
 https://stackoverflow.com/questions/15655126/how-to-auto-format-code-in-eclipse
 
+- 나의 .vrapperrc 세팅
+
+```
+" ~~~~~ General Settings
+imap jk <esc>
+set autoindent
+set ignorecase
+set smartcase
+set nonum
+
+"" Content-Assist Mode ~~~~~~~
+set contentassistmode 
+
+" ~~~~~~~~~~~~~~
+```
+
 <hr>
 
 # The application “Eclipse” can’t be opened. (macOS Monterey)
