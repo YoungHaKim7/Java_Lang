@@ -1,3 +1,15 @@
+# Eclipse 자주 쓰는 Vim키 정리
+
+```
+
+자동완성 (Control + Space)
+빔으로 세팅해서 그런가
+Control + I 누르면 바로 밑 선택되고 밑에 내가 원하는 자동 완성은 Control 누른 상태로 알파벳 첫 글짜 선택됨. 그 다음 엔터
+Control +y 가 빠르고 좋은데 이거랑 같이 기능은
+
+
+```
+
 # The application “Eclipse” can’t be opened. (macOS Monterey)
 
 ```
