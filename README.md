@@ -1,3 +1,10 @@
+# Eclipse Vim Setting (.vrapperrc)
+
+- rust_vim_setting/Eclipse_Vim_settings/
+
+  - https://github.com/YoungHaKim7/rust_vim_setting
+
+
 # Eclipse 자주 쓰는 Vim키 정리
 
 ```
