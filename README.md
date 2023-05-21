@@ -1,9 +1,18 @@
+# Eclipse
+
+https://www.eclipse.org/
+
 # Eclipse Vim Setting (.vrapperrc)
 
 - rust_vim_setting/Eclipse_Vim_settings/
 
   - https://github.com/YoungHaKim7/rust_vim_setting
 
+  Eclipse __Vim Plug in (vrapper) 
+
+    - Documentation https://vrapper.sourceforge.net/documentation/?topic=configuration#config
+
+    - keymap https://vrapper.sourceforge.net/documentation/index.php?topic=commands
 
 # Eclipse 자주 쓰는 Vim키 정리
 
