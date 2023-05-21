@@ -22,6 +22,7 @@ On Mac : ⌘ + ⇧ + F
 ```
 https://stackoverflow.com/questions/15655126/how-to-auto-format-code-in-eclipse
 
+<hr>
 
 # The application “Eclipse” can’t be opened. (macOS Monterey)
 
