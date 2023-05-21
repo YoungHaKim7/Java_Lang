@@ -10,6 +10,19 @@ Control +y 가 빠르고 좋은데 이거랑 같이 기능은
 
 ```
 
+
+- 자동정렬(코드 개판으로 치고 꼭 필요한 거)
+
+```
+On Windows and Linux : Ctrl + Shift + F
+
+On Mac : ⌘ + ⇧ + F
+
+(Alternatively you can press Format in Main Menu > Source)
+```
+https://stackoverflow.com/questions/15655126/how-to-auto-format-code-in-eclipse
+
+
 # The application “Eclipse” can’t be opened. (macOS Monterey)
 
 ```
