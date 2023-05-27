@@ -97,6 +97,13 @@ https://ccomrung-programming.tistory.com/m/39
 
 https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp
 
+
+# 자바FX 강좌
+
+- 자바FX는 GUI프로그램을 만들 때 사용하는 라이브러리 입니다.
+
+  - https://youtube.com/playlist?list=PLENYGEQnz1xqvOzbiXdnI1IZyTxIe-XsH
+
 <hr>
 
 <br>
