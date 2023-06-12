@@ -2,6 +2,8 @@
 
 https://docs.gradle.org/8.1.1/samples/
 
+https://docs.gradle.org/8.1.1/samples/sample_building_java_applications.html
+
 <hr>
 
 # Eclipse
