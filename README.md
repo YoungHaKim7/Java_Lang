@@ -1,3 +1,9 @@
+# gradle
+
+https://docs.gradle.org/8.1.1/samples/
+
+<hr>
+
 # Eclipse
 
 https://www.eclipse.org/
