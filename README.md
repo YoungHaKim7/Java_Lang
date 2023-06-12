@@ -4,6 +4,9 @@ https://docs.gradle.org/8.1.1/samples/
 
 https://docs.gradle.org/8.1.1/samples/sample_building_java_applications.html
 
+  - maven
+    - https://docs.gradle.org/8.1.1/userguide/publishing_maven.html#publishing_maven
+
 <hr>
 
 # Eclipse
