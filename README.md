@@ -41,6 +41,11 @@ To reformat code according to the current code style settings, select Code | Ref
 option + command + L
 
 
+// Comment and uncomment code
+Use shortcuts to comment and uncomment lines and blocks of code:
+  ⌘   /  : for single line comments (  //...  )
+  ⌥   ⌘   /  : for block comments (  /*...*/  )
+
 ```
 
 
