@@ -48,6 +48,22 @@ Use shortcuts to comment and uncomment lines and blocks of code:
   ⌘   /  : for single line comments (  //...  )
   ⌥   ⌘   /  : for block comments (  /*...*/  )
 
+// The Rename refactoring
+You can easily rename your classes, methods, and variables with automatic correction of all places where they are used.
+Position the caret at the symbol you want to rename, and press
+⇧   F6   (Refactor | Rename).
+Type the new name and press   ↩ Return  .
+
+
+// Preview search results
+You can use the Preview area of the Find in Files dialog 
+(  ⇧   ⌘   F  )
+for quicker search without leaving the dialog. The Preview dialog displays the first 100 results. 
+
+
+
+
+
 ```
 
 
