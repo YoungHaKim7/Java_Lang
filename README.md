@@ -37,7 +37,9 @@ Control + I 누르면 바로 밑 선택되고 밑에 내가 원하는 자동 완
 Control +y 가 빠르고 좋은데 이거랑 같이 기능은  모르겠음
 
 // Reformat code
-To reformat code according to the current code style settings, select Code | Reformat Code from the main menu or press   ⌥   ⌘   L  
+To reformat code according to the current code style settings, select Code
+| Reformat Code from the main menu or press
+⌥   ⌘   L  
 option + command + L
 
 
