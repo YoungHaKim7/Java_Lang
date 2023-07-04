@@ -7,6 +7,25 @@ https://docs.gradle.org/8.1.1/samples/sample_building_java_applications.html
   - maven
     - https://docs.gradle.org/8.1.1/userguide/publishing_maven.html#publishing_maven
 
+# 외부 라이브러리 검색하기
+
+https://mvnrepository.com/
+
+-build.gradle
+
+```
+// https://mvnrepository.com/artifact/junit/junit
+testImplementation group: 'junit', name: 'junit', version: '4.13.2'
+```
+- gradle build
+
+```
+gradle build --scan
+```
+
+
+https://kotlinworld.com/321
+
 <hr>
 
 # Eclipse
