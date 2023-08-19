@@ -126,6 +126,8 @@ https://stackoverflow.com/questions/70725347/the-application-eclipse-can-t-be-op
 
 https://openjdk.org/projects/jigsaw/quick-start
 
+<hr>
+
 # Java Full Course for free ☕(12시간짜리)
 
 https://youtu.be/xk4_1vDrzzo
@@ -141,6 +143,12 @@ https://youtu.be/GoXwIVyNvX0
 
 https://youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
 
+# 자바 코딩 무료 강의 (기본편) - 9시간 뒤면 여러분도 개발자가 될 수 있어요 | 나도코딩
+
+https://youtu.be/NQq0dOoEPUM
+
+
+<hr>
 
 # Free University of Bolzano/Bozen | Faculty of Computer Science - Bachelor in Applied Computer Science | Bachelor in Production Engineering
 
