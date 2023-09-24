@@ -147,6 +147,9 @@ https://youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
 
 https://youtu.be/NQq0dOoEPUM
 
+# [나우캠퍼스]java
+
+https://youtube.com/playlist?list=PLEk6DN9YLL6c_Dy-3yJhIKFP0AktqZVeE&si=LKZwqtWBhup8gY1k
 
 <hr>
 
