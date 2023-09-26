@@ -55,3 +55,11 @@ brew search java
 google-java-format     java-service-wrapper   javacc                 jslint4java            pdftk-java
 java ✔ 
 ```
+
+
+# WindowsOS 기준
+
+```
+choco install openjdk
+```
+https://community.chocolatey.org/packages/openjdk
