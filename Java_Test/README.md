@@ -4,6 +4,10 @@ https://junit.org/junit5/docs/current/user-guide/
 
 <hr>
 
+# Running java in package from command line 
+
+https://stackoverflow.com/questions/19433366/running-java-in-package-from-command-line
+
 # How to run JUnit test cases from the command line
 
 https://stackoverflow.com/questions/2235276/how-to-run-junit-test-cases-from-the-command-line
