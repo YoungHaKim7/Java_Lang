@@ -2,8 +2,16 @@
 
 https://github.com/YoungHaKim7/Algorithm_Trainining
 
-- The Art of Computer Programming | Book by Donald Knuth 완성을 향해 파이팅!
+## 목표 Goal
+1. Algorithms 4th Edition, Kindle Edition
+2. The Art of Computer Programming | Book by Donald Knuth 완성을 향해 파이팅!
 
+
+- Amazon관련책 Algorithms 4th Edition, Kindle Edition
+  - https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+- The Art of Computer Programming, Volumes 1-4A Boxed Set 1st Edition
+  - by Donald Knuth (Author), Donald John Fuller (Series Editor)
+    - https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043
 
 <hr>
 
