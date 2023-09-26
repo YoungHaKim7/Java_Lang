@@ -6,6 +6,9 @@ https://github.com/helix-editor/helix/issues/2510
 
 https://github.com/eclipse-jdtls/eclipse.jdt.ls
 
+- jdtls-launcher 리눅스에 간단히 설치?
+  - https://github.com/eruizc-dev/jdtls-launcher
+
 <hr>
 
 # gradle
