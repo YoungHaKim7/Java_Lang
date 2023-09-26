@@ -1,2 +1,4 @@
 # General
-.DS_Store\xa
+.DS_Store
+
+dir/otherdir/.DS_Store
