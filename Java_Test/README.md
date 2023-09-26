@@ -7,9 +7,15 @@ https://stackoverflow.com/questions/2235276/how-to-run-junit-test-cases-from-the
 
 https://youtu.be/lwAHPJoiXYU
 
+
+# How to Setup JUnit for VS Code | JUnit in Visual Studio Code | Java Test with Visual Studio Code
+
+https://youtu.be/936wHLIR4UY?si=PxLllXV6UYsa6WFo
+
 <hr>
 
 <br>
+
 
 
 # Using JUnit4 from the command line with No IDE
