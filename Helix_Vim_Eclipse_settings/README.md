@@ -41,3 +41,17 @@ JDTLS installation succesfull
 INFO: Installation successful
 INFO: Ensure /home/gy/.local/bin is in path
 ```
+
+# macOS 기준
+
+- ```brew install jdtls java``` 이거 2개만 설치하면 됨
+
+```
+brew search jdtls
+==> Formulae
+jdtls ✔
+brew search java
+==> Formulae
+google-java-format     java-service-wrapper   javacc                 jslint4java            pdftk-java
+java ✔ 
+```
