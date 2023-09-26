@@ -1,6 +1,13 @@
+# How to run JUnit test cases from the command line
+
+https://stackoverflow.com/questions/2235276/how-to-run-junit-test-cases-from-the-command-line
+
+
 # How to compile and run JUnit tests in command line
 
 https://youtu.be/lwAHPJoiXYU
+
+<hr>
 
 <br>
 
