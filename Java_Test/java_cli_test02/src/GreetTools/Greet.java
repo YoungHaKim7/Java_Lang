@@ -1,4 +1,4 @@
-package Greet;
+package GreetTools;
 
 public class Greet{
     public String says(){
