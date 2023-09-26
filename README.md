@@ -1,3 +1,7 @@
+![java_icons](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/fcec3be0-0bce-4a55-9853-87e9c3a235e8)
+
+<hr>
+
 # Helix Java LSP세팅
 
 https://github.com/helix-editor/helix/issues/2510
