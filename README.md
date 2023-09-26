@@ -2,6 +2,10 @@
 
 https://github.com/helix-editor/helix/issues/2510
 
+# LSP 이게 젤 큰듯? 역시 Eclipse이클립스
+
+https://github.com/eclipse-jdtls/eclipse.jdt.ls
+
 <hr>
 
 # gradle
