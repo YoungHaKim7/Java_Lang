@@ -1,3 +1,9 @@
+# Helix Java LSP세팅
+
+https://github.com/helix-editor/helix/issues/2510
+
+<hr>
+
 # gradle
 
 https://docs.gradle.org/8.1.1/samples/
