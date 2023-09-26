@@ -13,6 +13,8 @@ $ java -jar .\junit-platform-console-standalone-1.9.3.jar --class-path out --sca
 https://stackoverflow.com/questions/52373469/how-to-launch-junit-5-platform-from-the-command-line-without-maven-gradle/52373592#52373592
 
 
+- 테스트 설명서 https://junit.org/junit5/docs/current/user-guide/#running-tests-console-launcher
+
 - junit-platform-console-standalone-1.9.3설치 파일 https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/
 
 ```
