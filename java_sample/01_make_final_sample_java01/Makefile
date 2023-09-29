@@ -1,12 +1,12 @@
 run :
-		javac -cp src src/Main.java -d dist
-		java -cp dist Main
+		javac -cp src src/Main.java -d out
+		java -cp out Main
 Main.class: ./src/Main.java
-	  javac -cp src src/Main.java -d dist
+	  javac -cp src src/Main.java -d out
 
-Main.class: ./dist/Main.class
-		java -cp dist Main
+Main.class: ./out/Main.class
+		java -cp out Main
 
 clean:
-		rm -rf dist
+		rm -rf out
 

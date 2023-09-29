@@ -14,8 +14,8 @@ Java ! Hello World
 ```
 #!/bin/bash
 
-javac -cp src src/Main.java -d dist
-java -cp dist Main
+javac -cp src src/Main.java -d out
+java -cp out Main
 
 ```
 
@@ -28,7 +28,7 @@ tree
 .
 ├── README.md
 ├── build.sh
-├── dist
+├── out
 │   └── Main.class
 └── src
     └── Main.java
