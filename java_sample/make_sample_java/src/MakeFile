@@ -1,0 +1,15 @@
+JFLAGS = -g
+JAVAC  = javac
+RM     = rm
+ 
+TARGET  = Main.class
+SOURCES = Main.java
+ 
+all: $(TARGET)
+ 
+.SUFFIXES: .java .class
+.java.class:
+  $(JAVAC) $(JFLAGS) $<
+ 
+clean:
+  -$(RM) $(SOURCES:.java=.class)

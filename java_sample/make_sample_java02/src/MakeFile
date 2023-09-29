@@ -1,0 +1,8 @@
+Main.Class : Main.java
+  javac -cp Main.java
+
+clean :
+  rm *.class
+
+
+

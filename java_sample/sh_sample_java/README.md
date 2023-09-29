@@ -38,7 +38,3 @@ tree
 ```
 
 <br>
-
-# Make 사용법
-
-https://studywithus.tistory.com/22
