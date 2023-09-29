@@ -14,8 +14,8 @@ Java ! Hello World
 ```
 #!/bin/bash
 
-javac -cp src src/Main.java -d dist
-java -cp dist Main
+javac -cp src src/Main.java -d out
+java -cp out Main
 
 ```
 
@@ -28,13 +28,31 @@ tree
 .
 ├── README.md
 ├── build.sh
-├── dist
+├── out
 │   └── Main.class
 └── src
     └── Main.java
 
 2 directories, 4 files
 
+```
+
+# Makefile Sample
+
+```Makefile
+run :
+		javac -cp src src/Main.java -d out
+		java -cp out Main
+Main.class: ./src/Main.java
+	  javac -cp src src/Main.java -d out
+
+Main.class: ./out/Main.class
+		java -cp out Main
+
+clean:
+		rm -rf out
+
+    
 ```
 
 <br>
