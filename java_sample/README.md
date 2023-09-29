@@ -39,6 +39,10 @@ tree
 
 # Makefile Sample
 
+- Trying Kotlin for the First Time (38:50) Makefile 나옴 
+  - https://youtu.be/Q4VWCOgk6wc?si=Dzx903uB03CQFgcT 
+
+
 ```Makefile
 run :
 		javac -cp src src/Main.java -d out
