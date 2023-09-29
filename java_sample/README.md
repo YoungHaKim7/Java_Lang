@@ -47,3 +47,6 @@ https://studywithus.tistory.com/22
 - Java 최종 make
 
 https://www.cs.swarthmore.edu/~newhall/unixhelp/javamakefiles.html
+
+
+# make file 기초 
