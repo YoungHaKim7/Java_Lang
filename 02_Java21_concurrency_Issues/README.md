@@ -1,8 +1,8 @@
 # Concurrency Issues
 ```java
- Json request        = ContractService.build.ContractRequest(id); // 100ns
-        String contractJson = ContractService.fetchContract(request);   // 100ms
-        Contract contract   = Json.unmarshall(contractJson);            // 100ns
+Json request        = ContractService.build.ContractRequest(id); // 100ns
+String contractJson = ContractService.fetchContract(request);   // 100ms
+Contract contract   = Json.unmarshall(contractJson);            // 100ns
 ```
 
 <table border="1">
