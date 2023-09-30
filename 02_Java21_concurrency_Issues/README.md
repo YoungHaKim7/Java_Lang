@@ -2,7 +2,7 @@
 
 - ```sdk install maven 4.0.0-alpha-7```
 - ```mvn compile```
-- ``` mvn test```
+- ```mvn test```
 
 ```
 
