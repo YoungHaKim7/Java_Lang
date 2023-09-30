@@ -1,3 +1,18 @@
+# This lab covers three aspects of the Loom project: virtual threads, structured concurrency, and scoped values.
+
+https://github.com/JosePaumard/JDK20_2023-Loom-Lab
+
+```
+// Running the Exercises
+// Running the Virtual Threads Exercises
+
+// You can compile your code with the following command, assuming you are using the JDK 20:
+
+$ java --enable-preview --release 20 Main.java
+```
+
+<hr>
+
 # Concurrency Issues
 ```java
 Json request        = ContractService.build.ContractRequest(id); // 100ns
@@ -66,3 +81,4 @@ https://jdk.java.net/loom/
 # Java 21: Virtual Threads - A different async/await with Code Examples
 
 https://youtu.be/JWZxyrHBppA?si=P0y9vtTffuNaQcNm
+
