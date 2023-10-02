@@ -24,43 +24,41 @@ java -cp out Main
 
 <br>
 
-- tree 구성
+# tree ```make r```
 
 ```
-tree
+$ tree
 .
-├── README.md
-├── build.sh
+├── Makefile
 ├── out
 │   └── Main.class
 └── src
     └── Main.java
 
-2 directories, 4 files
-
+3 directories, 3 files
 ```
 
+```Makefile
+r:
+		javac -cp src src/Main.java -d out
+		java -cp out Main
+
+b:
+		javac -cp src src/Main.java -d out
+
+d: 
+		wget https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.9.3/junit-platform-console-standalone-1.9.3.jar
+
+t:
+		java -jar ./junit-platform-console-standalone-1.9.3.jar --class-path dist --scan-class-path
+
+clean:
+		rm -rf out
+```
 # Makefile Sample
 
 - Trying Kotlin for the First Time (38:50) Makefile 나옴 
   - https://youtu.be/Q4VWCOgk6wc?si=Dzx903uB03CQFgcT 
-
-
-```Makefile
-run :
-		javac -cp src src/Main.java -d out
-		java -cp out Main
-Main.class: ./src/Main.java
-	  javac -cp src src/Main.java -d out
-
-Main.class: ./out/Main.class
-		java -cp out Main
-
-clean:
-		rm -rf out
-
-    
-```
 
 <br>
 
