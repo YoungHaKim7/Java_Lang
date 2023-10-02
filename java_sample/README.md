@@ -1,3 +1,6 @@
+# jar파일 인위적으로 추가해서 넣기 cli
+https://stackoverflow.com/questions/9395207/how-to-include-jar-files-with-java-file-and-compile-in-command-prompt
+
 # javac & java 자동으로 ㅋ
 
 build.sh
