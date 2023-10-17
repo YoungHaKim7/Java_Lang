@@ -1,4 +1,4 @@
-<center><p><img width=150px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/fcec3be0-0bce-4a55-9853-87e9c3a235e8" /></p></center>
+<p align="center"><img width=150px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/fcec3be0-0bce-4a55-9853-87e9c3a235e8" /></p>
 
 <hr>
 
