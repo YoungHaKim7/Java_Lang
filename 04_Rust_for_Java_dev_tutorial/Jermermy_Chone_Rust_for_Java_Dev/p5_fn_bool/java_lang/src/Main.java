@@ -1,9 +1,28 @@
+class Contact {
+    String fullName;
+    short since;
+}
+
+
+class Contact02 {
+    String fullName;
+    short since;
+    Contact02(String fullName, short since) {
+        this.fullName = fullName;
+        this.since = since;
+    }
+}
+
 public class Main { 
     public static void main(String[] args) { 
         Main.sayHello();
         Main.sayIf();
         Main.sayIf2();
         Main.strString01();
+        Main.strString02();
+        Main.strString03();
+        Main.contactString04();    
+        Main.contactString05();    
     } 
 
     // Boolean
@@ -34,4 +53,26 @@ public class Main {
         System.out.println(" Hello " + fullName);
     }
 
+    public static void strString02() {
+        String fullName = new String("John Doe");
+        System.out.println("Hello " + fullName);
+    }
+
+    public static void strString03() {
+        var fullName = new StringBuilder("John");
+        fullName.append(" Doe");
+        System.out.println("Hello " + fullName);
+    }
+
+    public static void contactString04() {
+        var c1 = new Contact();
+        c1.fullName = "John Doe";
+        c1.since = 2005;
+        System.out.println("Hello " + c1.fullName + " since: " + c1.since);
+    }
+    
+    public static void contactString05() {
+        var c1 = new Contact02("John Doe", (short) 2005);
+        System.out.println("Hello " + c1.fullName + " since: " + c1.since);
+    }
 } 
