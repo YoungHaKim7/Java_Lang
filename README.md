@@ -5,6 +5,14 @@
 # Make sample(Java)
 
 ```
+echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
+
+echo "# A collection of useful .gitignore templates " >> .gitignore &&
+echo "# https://github.com/github/gitignore\xa" >> .gitignore &&
+echo "# General" >> .gitignore &&
+echo ".DS_Store" >> .gitignore &&
+echo "dir/otherdir/.DS_Store\xa" >> .gitignore &&
+
 echo "r:\xa\x09\x09mkdir out\xa\x09\x09javac -cp src src/Main.java -d out" >> Makefile &&
 echo "\x09\x09java -cp out Main\xa" >> Makefile &&
 echo "b:\xa\x09\x09javac -cp src src/Main.java -d out" >> Makefile &&
