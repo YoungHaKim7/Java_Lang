@@ -34,7 +34,7 @@ https://docs.oracle.com/javase/tutorial/index.html
     <tr align="center">
         <td>Length</td>
         <td>signed*</td>
-        <td>Signed</td>
+        <td>Signed/ Unsigned</td>
     </tr>
     <tr align="center">
         <td>8-bit</td>
@@ -42,14 +42,29 @@ https://docs.oracle.com/javase/tutorial/index.html
         <td>i8 / u8</td>
     </tr>
     <tr align="center">
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>16-bit</td>
+        <td>short</td>
+        <td>i16 / u16</td>
     </tr>
     <tr align="center">
+        <td>32-bit</td>
+        <td>int</td>
+        <td>i32 / u32</td>
+    </tr>
+    <tr align="center">
+        <td>64-bit</td>
+        <td>long</td>
+        <td>i64 / u64</td>
+    </tr>
+    <tr align="center">
+        <td>128-bit</td>
         <td></td>
+        <td>i128 / u128</td>
+    </tr>
+    <tr align="center">
+        <td>arch</td>
         <td></td>
-        <td></td>
+        <td>isize / usize</td>
     </tr>
 </table>
 
