@@ -28,6 +28,29 @@ class Contact03 {
     }
 }
 
+class Contact04 implements BusinessCard {
+    String fullName;
+    short since;
+    
+    Contact04(String fullName, short since) {
+        this.fullName = fullName;
+        this.since = since;
+    }
+
+    public String info() {
+        return this.fullName + " since: " + this.since;
+    }
+
+    public String card() {
+        return "Business Card: " + this.fullName;
+    }
+}
+
+interface BusinessCard {
+    public String card();
+}
+
+
 public class Main { 
     public static void main(String[] args) { 
         Main.sayHello();
@@ -39,6 +62,7 @@ public class Main {
         Main.contactString04();    
         Main.contactString05();    
         Main.contactString06();
+        Main.contactString07();
     } 
 
     // Boolean
@@ -95,6 +119,11 @@ public class Main {
     public static void contactString06() {
         var c1 = new Contact03("John Doe", (short) 2005);
         System.out.println("Hello " + c1.info());
-        
     }
+    
+    public static void contactString07() {
+        var c1 = new Contact04("John Doe", (short) 2005);
+        System.out.println("Hello " + c1.card());
+    }
+    
 } 
