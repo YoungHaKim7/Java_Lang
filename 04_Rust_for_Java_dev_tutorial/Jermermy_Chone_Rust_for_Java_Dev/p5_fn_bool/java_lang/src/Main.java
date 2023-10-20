@@ -7,9 +7,24 @@ class Contact {
 class Contact02 {
     String fullName;
     short since;
+    
     Contact02(String fullName, short since) {
         this.fullName = fullName;
         this.since = since;
+    }
+}
+
+class Contact03 {
+    String fullName;
+    short since;
+    
+    Contact03(String fullName, short since) {
+        this.fullName = fullName;
+        this.since = since;
+    }
+
+    public String info() {
+        return this.fullName + " since: " + this.since;
     }
 }
 
@@ -23,6 +38,7 @@ public class Main {
         Main.strString03();
         Main.contactString04();    
         Main.contactString05();    
+        Main.contactString06();
     } 
 
     // Boolean
@@ -74,5 +90,11 @@ public class Main {
     public static void contactString05() {
         var c1 = new Contact02("John Doe", (short) 2005);
         System.out.println("Hello " + c1.fullName + " since: " + c1.since);
+    }
+
+    public static void contactString06() {
+        var c1 = new Contact03("John Doe", (short) 2005);
+        System.out.println("Hello " + c1.info());
+        
     }
 } 
