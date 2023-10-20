@@ -13,7 +13,7 @@ echo "# General" >> .gitignore &&
 echo ".DS_Store" >> .gitignore &&
 echo "dir/otherdir/.DS_Store\xa" >> .gitignore &&
 
-echo "r:\xa\x09\x09mkdir out\xa\x09\x09javac -cp src src/Main.java -d out" >> Makefile &&
+echo "r:\xa\x09\x09rm -rf out\xa\x09\x09mkdir out\xa\x09\x09javac -cp src src/Main.java -d out" >> Makefile &&
 echo "\x09\x09java -cp out Main\xa" >> Makefile &&
 echo "b:\xa\x09\x09javac -cp src src/Main.java -d out" >> Makefile &&
 echo "\x09\x09java -cp out Main\xa" >> Makefile &&
