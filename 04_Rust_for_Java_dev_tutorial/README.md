@@ -17,6 +17,42 @@ https://docs.oracle.com/javase/tutorial/index.html
 
 <br>
 
+
+# Java vs Rust
+
+<br>
+
+<table border="1">
+    <tr>
+    <td colspan="3" align="center">Java vs Rust(integers)</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Java</td>
+        <td>Rust</td>
+    </tr>
+    <tr align="center">
+        <td>Length</td>
+        <td>signed*</td>
+        <td>Signed</td>
+    </tr>
+    <tr align="center">
+        <td>8-bit</td>
+        <td>bytes</td>
+        <td>i8 / u8</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 # Java compile
 
 ```
