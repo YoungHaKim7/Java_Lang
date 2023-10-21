@@ -110,6 +110,10 @@ fn main() {
     println!("\n~~~~~~~~~~~");
     println!("~~~ 7) Result~~~~~");
     // let result = floor_divide(10., 0.); // max 값이 나온다.
-    let result = floor_divide(10., 4.); // max 값이 나온다.
-    println!("result: {result:?}");
+    // let result = floor_divide(10., 4.); // max 값이 나온다.
+    // println!("result: {result:?}");
+    match floor_divide(10., 4.) {
+        Ok(result) => println!("result : {result:?}"),
+        Err(e) => println!("ERROR CAUGHT - {e}"),
+    }
 }
