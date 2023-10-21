@@ -34,9 +34,10 @@ fn compare_items<T: Ord>(item1: &T, item2: &T) -> Ordering {
 
 fn floor_divide(num: f32, by: f32) -> Result<i32, String> {
     if by == 0. {
-        return Result::Err("Cannot divide by 0".to_string());
+        Err("Cannot divide by 0".to_string())
+    } else {
+        Ok((num / by).floor() as i32)
     }
-    return Result::Ok((num / by).floor() as i32);
 }
 
 fn main() {
