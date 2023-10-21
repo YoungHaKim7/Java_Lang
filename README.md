@@ -51,7 +51,7 @@ echo "\x09\x09rm -rf *.jar ./out\xa" >> Makefile &&
 echo "init:\xa\x09\x09mkdir src" >> Makefile &&
 echo "\x09\x09echo \x22public class Main {\x22 >> src/Main.java" >> Makefile &&
 echo "\x09\x09echo \x22\x09public static void main(String[] args) {\x22 >> src/Main.java" >> Makefile &&
-echo "\x09\x09echo \x22\x09\x09System.out.println(\\\"Hello World. Java"\\\);\x22 >> src/Main.java" >> Makefile &&
+echo "\x09\x09echo \x22\x09\x09System.out.println(\\\"Hello World. Java\\\");\x22 >> src/Main.java" >> Makefile &&
 echo "\x09\x09echo \x22\x09}\x22 >> src/Main.java" >> Makefile &&
 echo "\x09\x09echo \x22}\x22 >> src/Main.java" >> Makefile
 ```
