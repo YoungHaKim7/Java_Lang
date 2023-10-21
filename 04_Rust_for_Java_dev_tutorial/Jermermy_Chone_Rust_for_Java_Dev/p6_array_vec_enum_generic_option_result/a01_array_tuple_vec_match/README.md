@@ -1,4 +1,4 @@
-# Result
+# Result(Rust Lang)
 
 ```
 ~~~Array~~~~~
