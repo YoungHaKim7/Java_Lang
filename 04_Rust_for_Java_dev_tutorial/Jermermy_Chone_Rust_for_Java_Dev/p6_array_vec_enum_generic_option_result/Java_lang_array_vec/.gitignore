@@ -5,10 +5,6 @@
 .DS_Store
 dir/otherdir/.DS_Store
 
-# A collection of useful .gitignore templates 
-# https://github.com/github/gitignore
-
-
 out/ 
 
 
