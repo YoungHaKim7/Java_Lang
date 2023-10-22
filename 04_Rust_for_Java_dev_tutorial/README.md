@@ -117,3 +117,8 @@ Java ! Hello World
 
 
 ```
+
+# Rust vs Java: A Staff Engineer's perspective | Security Union
+
+https://youtu.be/-JwgfNGx_V8?si=VVmlNmSjLQbjC1yG
+
