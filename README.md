@@ -2,7 +2,7 @@
 
 <hr>
 
-# Make sample(Java)
+# Make sample(Java)-LinuxOS
 
 ```
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
