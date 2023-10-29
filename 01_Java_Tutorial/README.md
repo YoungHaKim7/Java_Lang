@@ -14,3 +14,8 @@ https://youtu.be/GdzRzWymT4c?si=UmXoxIOm8FYiwgo2
 # Free University of Bolzano/Bozen | Faculty of Computer Science - Bachelor in Applied Computer Science | Bachelor in Production Engineering
 
 https://www.inf.unibz.it/~calvanese/teaching/06-07-ip/lecture-notes/
+
+
+# Java에서 deep copy vs shadow copy
+https://zzang9ha.tistory.com/372
+
