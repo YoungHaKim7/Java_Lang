@@ -19,3 +19,9 @@ https://www.inf.unibz.it/~calvanese/teaching/06-07-ip/lecture-notes/
 # Java에서 deep copy vs shadow copy
 https://zzang9ha.tistory.com/372
 
+
+<hr>
+
+# 자바프로그래밍 2023-02 | Sangjin Kim
+
+https://youtube.com/playlist?list=PLsIth_qcusf8Yzn3zuztEA7gSLeyjl4Aw&si=pOB2t8hudKBx3Ehq
