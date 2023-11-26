@@ -2,6 +2,9 @@
 
 https://youtu.be/kj33guVJuso?si=BqbPMs-ItESSBm5y
 
+# 자바(java) 프로그래밍 | 비타아카데미 Vita Academy
+https://youtube.com/playlist?list=PLY9pe3iUjRrSm5j6zOo2DFZ-xhgDlYEOe&si=m-vruW6L61nxRdG5
+
 <hr>
 
 # Java Full Course for free ☕ (12hr)
