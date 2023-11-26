@@ -1,3 +1,9 @@
+# 한글 Java 자바 문법 총정리 - 1시간 | 오준석의 생존코딩
+
+https://youtu.be/kj33guVJuso?si=BqbPMs-ItESSBm5y
+
+<hr>
+
 # Java Full Course for free ☕ (12hr)
 
 https://youtu.be/xk4_1vDrzzo
