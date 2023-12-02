@@ -4,7 +4,7 @@
 
 # Link
 
-- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
+- <a href="https://github.com/YoungHaKim7/Java_Lang#make-samplejava-linuxos">echo로 .gitignore 넣기</a>
 
 - <a href="https://github.com/YoungHaKim7/Java_Lang#java-gitignore">그냥 넣기 .gitignore 넣기</a>
 
