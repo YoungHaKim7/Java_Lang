@@ -43,6 +43,12 @@ echo "\x09\x09echo \x22}\x22 >> src/Main.java" >> Makefile
 ```
 
 
+# echo로 Result만 만들기<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+
+```
+echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md
+```
+
 # Java Makefile(macOS)<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
 ```Makefile
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
