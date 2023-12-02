@@ -6,7 +6,7 @@
 
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
 
-- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-gitignore">그냥 넣기 .gitignore 넣기</a>
+- <a href="https://github.com/YoungHaKim7/Java_Lang#java-gitignore">그냥 넣기 .gitignore 넣기</a>
 
 - <a href="https://github.com/YoungHaKim7/Java_Lang#makefile">Makefile간단히 만들기(간단한 Java실행)</a>
 
