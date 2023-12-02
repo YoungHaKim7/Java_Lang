@@ -19,7 +19,7 @@
 
 <hr>
 
-# Make sample(Java)-LinuxOS<a href="https://github.com/YoungHaKim7/Kotlin_Lang#link">[🔝]</a>
+# Make sample(Java)-LinuxOS<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
 
 ```
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
