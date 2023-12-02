@@ -8,7 +8,7 @@
 
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-gitignore">그냥 넣기 .gitignore 넣기</a>
 
-- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EA%B0%84%EB%8B%A8%ED%95%9C-kotlin%EC%8B%A4%ED%96%89">Makefile간단히 만들기(간단한 Java실행)</a>
+- <a href="https://github.com/YoungHaKim7/Java_Lang#makefile">Makefile간단히 만들기(간단한 Java실행)</a>
 
 
 <hr>
