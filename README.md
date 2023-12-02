@@ -8,14 +8,8 @@
 
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-gitignore">그냥 넣기 .gitignore 넣기</a>
 
-- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EA%B0%84%EB%8B%A8%ED%95%9C-kotlin%EC%8B%A4%ED%96%89">Makefile간단히 만들기(간단한 kotlin실행)</a>
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EA%B0%84%EB%8B%A8%ED%95%9C-kotlin%EC%8B%A4%ED%96%89">Makefile간단히 만들기(간단한 Java실행)</a>
 
-- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EC%97%AC%EB%9F%AC%EA%B0%9C-%ED%8C%8C%EC%9D%BC-%EC%97%B0%EA%B2%B0-kotlin%EC%8B%A4%ED%96%89
-">Makefile 링크로 여러개 파일 연결 만들기</a>
-
-- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#vscode-debugging-vscode-%EC%9E%90%EB%8F%99-%EB%A7%8C%EB%93%A4%EA%B8%B0">VSCode Debugging 넣기</a>
-
-- <a href="https://github.com/YoungHaKim7/Kotlin_Lang/tree/main#kotlin-gradle%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0">gradle로 kotlin Project 만들기</a>
 
 <hr>
 
