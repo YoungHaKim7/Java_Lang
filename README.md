@@ -90,6 +90,15 @@ init:
 # Java ```.gitignore```
 
 ```
+# A collection of useful .gitignore templates 
+# https://github.com/github/gitignore
+
+# General
+.DS_Store
+dir/otherdir/.DS_Store
+
+out/
+
 # Compiled class file
 *.class
 
