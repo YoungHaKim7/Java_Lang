@@ -23,7 +23,24 @@ https://sdkman.io/
 source "/home/gyoung/.sdkman/bin/sdkman-init.sh"
 
 ```
+# Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+- 오류 해결 하기 ```.bashrc```에 넣어주면 된다.
 
+```
+// Scroll Down and COPY / PAST THIS 3 LINES Of COMMAND INTO YOUR .bashrc :
+*************
+
+_SILENT_JAVA_OPTIONS="$_JAVA_OPTIONS"
+unset _JAVA_OPTIONS
+alias java='java "$_SILENT_JAVA_OPTIONS"'
+
+*************
+```
+출처 :  Permanently Fix Problem : Picked Up _JAVA_OPTIONS | Best Linux
+- https://youtu.be/_J4YGeCLzLQ?si=mt9Zp35S4C0GfqnY
+
+
+<hr>
 
 # Make sample(Java)-LinuxOS<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
 
