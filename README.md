@@ -26,6 +26,8 @@ source "/home/gyoung/.sdkman/bin/sdkman-init.sh"
 # Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
 - 오류 해결 하기 ```.bashrc```에 넣어주면 된다.
 
+- ```vi /root/.bashrc```
+
 ```
 // Scroll Down and COPY / PAST THIS 3 LINES Of COMMAND INTO YOUR .bashrc :
 *************
