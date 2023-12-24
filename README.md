@@ -15,6 +15,16 @@
 
 <hr>
 
+# sdkman(Java버젼 관리)
+
+https://sdkman.io/
+
+```
+source "/home/gyoung/.sdkman/bin/sdkman-init.sh"
+
+```
+
+
 # Make sample(Java)-LinuxOS<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
 
 ```
