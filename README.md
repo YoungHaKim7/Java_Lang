@@ -27,6 +27,8 @@ source "/home/gyoung/.sdkman/bin/sdkman-init.sh"
 - 오류 해결 하기 ```.bashrc```에 넣어주면 된다.
 
 - ```vi /root/.bashrc```
+- or  ```vi .zshrc```
+- 난 zshrc에 넣었더니 해결됨.
 
 ```
 // Scroll Down and COPY / PAST THIS 3 LINES Of COMMAND INTO YOUR .bashrc :
