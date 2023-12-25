@@ -43,6 +43,14 @@ alias java='java "$_SILENT_JAVA_OPTIONS"'
 출처 :  Permanently Fix Problem : Picked Up _JAVA_OPTIONS | Best Linux
 - https://youtu.be/_J4YGeCLzLQ?si=mt9Zp35S4C0GfqnY
 
+- 다른 방법
+
+- .zshrc에 넣어주기
+
+```
+export _JAVA_OPTIONS='-Xms64m -Xmx128m -Dawt.useSystemAAFontSettings=lcd'
+```
+https://stackoverflow.com/questions/9677346/java-system-environment-variable/9677804#9677804
 
 <hr>
 
