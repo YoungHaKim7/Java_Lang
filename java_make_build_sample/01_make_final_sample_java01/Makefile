@@ -1,4 +1,5 @@
 r:
+		rm out
 		mkdir out
 		javac -cp src src/Main.java -d out
 		java -cp out Main
