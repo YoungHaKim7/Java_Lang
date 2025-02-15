@@ -15,7 +15,7 @@
 
 <hr>
 
-# sdkman(Java버젼 관리)
+# sdkman(Java버젼 관리)[|🔝|](#link)
 
 https://sdkman.io/
 
@@ -23,7 +23,7 @@ https://sdkman.io/
 source "/home/gyoung/.sdkman/bin/sdkman-init.sh"
 
 ```
-# Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+# Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true[|🔝|](#link)
 - 오류 해결 하기 ```.bashrc```에 넣어주면 된다.
 
 - ```vi /root/.bashrc```
@@ -54,7 +54,7 @@ https://stackoverflow.com/questions/9677346/java-system-environment-variable/967
 
 <hr>
 
-# **[Java 21의 Virtual Threads 소개 [48p 슬라이드]](<https://news.hada.io/topic?id=19240&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+# **[Java 21의 Virtual Threads 소개 [48p 슬라이드]](<https://news.hada.io/topic?id=19240&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
 - Virtual Threads 개요  
   - Virtual Threads (Loom project) 란  
   - Platform Threads vs Virtual Threads - Blocking ?  
@@ -67,7 +67,7 @@ https://stackoverflow.com/questions/9677346/java-system-environment-variable/967
 
 <hr />
 
-# Make sample(Java)-LinuxOS<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Make sample(Java)-LinuxOS[|🔝|](#link)
 
 ```
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
@@ -95,13 +95,13 @@ echo "\x09\x09echo \x22}\x22 >> src/Main.java" >> Makefile
 ```
 
 
-# echo로 Result만 만들기<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# echo로 Result만 만들기[|🔝|](#link)
 
 ```
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md
 ```
 
-# Java Makefile(macOS)<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Java Makefile(macOS)[|🔝|](#link)
 ```Makefile
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
 
@@ -127,7 +127,7 @@ echo "\x09\x09echo \x22\x09}\x22 >> src/Main.java" >> Makefile &&
 echo "\x09\x09echo \x22}\x22 >> src/Main.java" >> Makefile
 ```
 
-# Makefile<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Makefile[|🔝|](#link)
 
 ```Makefile
 r:
@@ -158,7 +158,7 @@ init:
 		echo "}" >> src/Main.java
 ```
 
-# Java ```.gitignore```<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Java `.gitignore`[|🔝|](#link)
 
 ```
 # A collection of useful .gitignore templates 
@@ -198,18 +198,18 @@ replay_pid*
 
 <hr>
 
-# Google Java Style Guide<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Google Java Style Guide[|🔝|](#link)
 
 https://google.github.io/styleguide/javaguide.html
 
 
-# 스프링 디버깅VSCode❤️Run and debug a Spring Boot project in Visual Studio Code<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# 스프링 디버깅VSCode❤️Run and debug a Spring Boot project in Visual Studio Code[|🔝|](#link)
 
 https://youtu.be/fTgmRyxCGF0?si=4sSJf4bltg5ex6C3
 
-# Helix Java LSP세팅<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Helix Java LSP세팅[|🔝|](#link)
 
-# Helix( Java LSP Install ) jdtls설치하기 그냥 github 땡기고 install하면 설치 된다. 최고..<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Helix( Java LSP Install ) jdtls설치하기 그냥 github 땡기고 install하면 설치 된다. 최고..[|🔝|](#link)
 
 https://github.com/eruizc-dev/jdtls-launcher
 
@@ -248,7 +248,7 @@ INFO: Ensure /home/gy/.local/bin is in path
 ```
 
 
-# Helix Debugger-Configurations<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Helix Debugger-Configurations[|🔝|](#link)
 
 https://github.com/helix-editor/helix/wiki/Debugger-Configurations#configure-debuggers
 
@@ -259,7 +259,7 @@ https://github.com/helix-editor/helix/issues/2510
 
 <hr>
 
-# LSP 이게 젤 큰듯? 역시 Eclipse이클립스<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# LSP 이게 젤 큰듯? 역시 Eclipse이클립스[|🔝|](#link)
 
 https://github.com/eclipse-jdtls/eclipse.jdt.ls
 
@@ -277,7 +277,7 @@ https://docs.gradle.org/8.1.1/samples/sample_building_java_applications.html
   - maven
     - https://docs.gradle.org/8.1.1/userguide/publishing_maven.html#publishing_maven
 
-# 외부 라이브러리 검색하기<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# 외부 라이브러리 검색하기[|🔝|](#link)
 
 https://mvnrepository.com/
 
@@ -302,7 +302,7 @@ https://kotlinworld.com/321
 
 https://www.eclipse.org/
 
-# Eclipse Vim Setting (.vrapperrc)<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Eclipse Vim Setting (.vrapperrc)[|🔝|](#link)
 
 - rust_vim_setting/Eclipse_Vim_settings/
 
@@ -314,7 +314,7 @@ https://www.eclipse.org/
 
     - keymap https://vrapper.sourceforge.net/documentation/index.php?topic=commands
 
-# Eclipse 자주 쓰는 Vim키 정리<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Eclipse 자주 쓰는 Vim키 정리[|🔝|](#link)
 
 ```
 
@@ -385,60 +385,60 @@ set contentassistmode
 
 <hr>
 
-# The application “Eclipse” can’t be opened. (macOS Monterey)
+# The application “Eclipse” can’t be opened. (macOS Monterey)[|🔝|](#link)
 
 ```
 sudo codesign --force --deep --sign - /Applications/Eclipse.app
 ```
 https://stackoverflow.com/questions/70725347/the-application-eclipse-can-t-be-opened-macos-monterey
 
-# Java Module 설명서
+# Java Module 설명서[|🔝|](#link)
 
 https://openjdk.org/projects/jigsaw/quick-start
 
 <hr>
 
-# Java Full Course for free ☕(12시간짜리)<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Java Full Course for free ☕(12시간짜리)[|🔝|](#link)
 
 https://youtu.be/xk4_1vDrzzo
 
 
-# Java Programming - Course for Absolute Beginners | freeCodeCamp.org<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Java Programming - Course for Absolute Beginners | freeCodeCamp.org[|🔝|](#link)
 
 https://youtu.be/GoXwIVyNvX0
 
 <br>
 
-# Java Tutorials Series | freeCodeCamp.org<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Java Tutorials Series | freeCodeCamp.org[|🔝|](#link)
 
 https://youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
 
-# 자바 코딩 무료 강의 (기본편) - 9시간 뒤면 여러분도 개발자가 될 수 있어요 | 나도코딩<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# 자바 코딩 무료 강의 (기본편) - 9시간 뒤면 여러분도 개발자가 될 수 있어요 | 나도코딩[|🔝|](#link)
 
 https://youtu.be/NQq0dOoEPUM
 
-# [나우캠퍼스]java<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# [나우캠퍼스]java[|🔝|](#link)
 
 https://youtube.com/playlist?list=PLEk6DN9YLL6c_Dy-3yJhIKFP0AktqZVeE&si=LKZwqtWBhup8gY1k
 
 <hr>
 
-# Free University of Bolzano/Bozen | Faculty of Computer Science - Bachelor in Applied Computer Science | Bachelor in Production Engineering
+# Free University of Bolzano/Bozen | Faculty of Computer Science - Bachelor in Applied Computer Science | Bachelor in Production Engineering[|🔝|](#link)
 
 https://www.inf.unibz.it/~calvanese/teaching/06-07-ip/lecture-notes/
 
 <br>
 
-# 한글설명[Java] 자료구조01 : 입출력, 변수, 배열, 반복문 <a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# 한글설명[Java] 자료구조01 : 입출력, 변수, 배열, 반복문[|🔝|](#link)
 
 https://ccomrung-programming.tistory.com/m/39
 
-# 자바의 정석(2020년ver)<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# 자바의 정석(2020년ver)[|🔝|](#link)
 
 https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp
 
 
-# 자바FX 강좌<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# 자바FX 강좌[|🔝|](#link)
 
 - 자바FX는 GUI프로그램을 만들 때 사용하는 라이브러리 입니다.
 
@@ -448,7 +448,7 @@ https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp
 
 <br>
 
-# Java tutorials(ORACLE)
+# Java tutorials(ORACLE)[|🔝|](#link)
 
 https://docs.oracle.com/javase/tutorial/index.html
 
@@ -456,13 +456,13 @@ https://docs.oracle.com/javase/tutorial/index.html
 
 <hr>
 
-# Java for Beginners<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Java for Beginners[|🔝|](#link)
 
 https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM
 
 <br>
 
-# Jave_Lang<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Jave_Lang[|🔝|](#link)
 
 - Learning Java Language - Compiled from StackOverflow Documentation (PDF)
 
@@ -472,13 +472,13 @@ https://riptutorial.com/Download/java-language.pdf
 
 <hr>
 
-# ORACLE \_\_ Java Tutorials<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# ORACLE \_\_ Java Tutorials[|🔝|](#link)
 
 https://docs.oracle.com/javase/tutorial/index.html
 
 <br>
 
-# 모든 언어를 무료로 공부할 수 있다.<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# 모든 언어를 무료로 공부할 수 있다.[|🔝|](#link)
 
 출처 : stackoverflow.com 알게 된 링크
 
@@ -502,7 +502,7 @@ https://skypacific.github.io/2019/01/24/kang.heehun@dev-env-setting.html
 choco install javaruntime
 ```
 
-# Java Vim Setting (WindowsOS)<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Java Vim Setting (WindowsOS)[|🔝|](#link)
 
 ```
 :LspInstall
@@ -510,7 +510,7 @@ choco install javaruntime
 Installed eclipse-jdt-ls
 ```
 
-# Install(Eclipse)<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# Install(Eclipse)[|🔝|](#link)
 
 https://www.eclipse.org/downloads/packages/installer
 
@@ -521,7 +521,7 @@ WindowsOS
 
 choco https://community.chocolatey.org/packages/eclipse
 
-# eclipse & tomcat<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
+# eclipse & tomcat[|🔝|](#link)
 
 
 ```
@@ -562,6 +562,6 @@ Chocolatey installed 1/1 packages.
 
 ```
 
-# Apache Tomcat Server Tutorial for Beginners
+# Apache Tomcat Server Tutorial for Beginners[|🔝|](#link)
 
 https://youtu.be/u_InEBgRVcc
