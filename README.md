@@ -1,4 +1,4 @@
-<p align="center"><img width=150px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/fcec3be0-0bce-4a55-9853-87e9c3a235e8" /></p>
+<p align="center"><img width=75px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/fcec3be0-0bce-4a55-9853-87e9c3a235e8" /></p>
 
 <hr>
 
@@ -53,6 +53,19 @@ export _JAVA_OPTIONS='-Xms64m -Xmx128m -Dawt.useSystemAAFontSettings=lcd'
 https://stackoverflow.com/questions/9677346/java-system-environment-variable/9677804#9677804
 
 <hr>
+
+# **[Java 21의 Virtual Threads 소개 [48p 슬라이드]](<https://news.hada.io/topic?id=19240&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- Virtual Threads 개요  
+  - Virtual Threads (Loom project) 란  
+  - Platform Threads vs Virtual Threads - Blocking ?  
+  - Platform Threads 작동 방식  
+  - Virtual Threads 작동 방식  
+- Rules & Best practices  
+  - Rule 1 - Create Threads  
+  - Rule 2 - Do Not use CompletableFuture  
+  -...
+
+<hr />
 
 # Make sample(Java)-LinuxOS<a href="https://github.com/YoungHaKim7/Java_Lang#link">[🔝]</a>
 
