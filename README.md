@@ -12,6 +12,7 @@
 
 - <a href="https://github.com/YoungHaKim7/Java_Lang#google-java-style-guide">Java Style 가이드</a>
 
+- [언어별 장단점 표로 비교_개발자가 사랑하는 JVM 4대 언어(코틀린, 스칼라, 클로저, 그루비)]()
 
 <hr>
 
@@ -565,3 +566,21 @@ Chocolatey installed 1/1 packages.
 # Apache Tomcat Server Tutorial for Beginners[|🔝|](#link)
 
 https://youtu.be/u_InEBgRVcc
+
+
+# 개발자가 사랑하는 JVM 4대 언어(코틀린, 스칼라, 클로저, 그루비)[|🔝|](#link)
+
+- 다음 표에서 4개 언어의 전체적인 특징을 간략히 볼 수 있다.
+  - https://www.itworld.co.kr/article/4084582
+
+|언어|패러다임|학습 난이도|주요 사용례|핵심 가치|
+|-|-|-|-|-|
+|코틀린|OOP, 함수형<br />(실용적)|쉬움|안드로이드 앱	|실용성, 안전성|
+||||||
+||||||
+||||||
+				
+			
+스칼라	함수형, OOP(엄격)	보통	빅데이터(스파크)	타입 안전성, 확장성
+클로저	함수형(리스프)	어려움	데이터 중심 API	단순성, 불변성
+그루비	동적, 스크립팅	쉬움	빌드(그래들)	유연성, 스크립팅
