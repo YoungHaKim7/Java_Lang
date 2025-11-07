@@ -580,4 +580,6 @@ https://youtu.be/u_InEBgRVcc
 |클로저<br />Clojure|함수형<br />(리스프)|어려움|데이터 중심 API|단순성,<br /> 불변성|
 |그루비<br />Groovy|동적,<br /> 스크립팅|쉬움|빌드<br />(그래들)<br />(gradle)|유연성,<br /> 스크립팅|
 				
-
+- Gradle
+  - 오픈 소스로 Maven의 장황한 설정 파일과 에러가 쉽게 나는 문제를 해결하기 위해서 만들어졌다. Groovy 기반의 빌드 도구로 안드로이드 스튜디오의 공식 빌드 도구이기도 하다.
+  - https://namu.wiki/w/Gradle
