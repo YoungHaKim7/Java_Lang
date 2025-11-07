@@ -580,6 +580,8 @@ https://youtu.be/u_InEBgRVcc
 |클로저<br />Clojure|함수형<br />(리스프)|어려움|데이터 중심 API|단순성,<br /> 불변성|
 |그루비<br />Groovy|동적,<br /> 스크립팅|쉬움|빌드<br />(그래들)<br />(gradle)|유연성,<br /> 스크립팅|
 				
-- Gradle
+- [Gradle](https://namu.wiki/w/Gradle)
   - 오픈 소스로 Maven의 장황한 설정 파일과 에러가 쉽게 나는 문제를 해결하기 위해서 만들어졌다. Groovy 기반의 빌드 도구로 안드로이드 스튜디오의 공식 빌드 도구이기도 하다.
-  - https://namu.wiki/w/Gradle
+
+- [아파치 그루비](https://ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EC%B9%98_%EA%B7%B8%EB%A3%A8%EB%B9%84)
+  - 그루비(Groovy)는 자바에 파이썬, 루비, 스몰토크 등의 특징을 더한 동적 객체 지향 프로그래밍 언어이다.
